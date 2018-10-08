@@ -6,6 +6,7 @@
 
 ![成品展示](http://m.qpic.cn/psb?/V10TJRfP2sMibY/1284dMMQZpVQH4zGeJkPXyg7XiHqgAxLPE*YIJ*LhNo!/b/dDUBAAAAAAAA&bo=5gFvAQAAAAAClzo!&rf=viewer_4)
 
+怎么样？是不是感觉很有意思？
 
 ### ***Step No.0 :准备工具***
 #### *1.* Construct 2
@@ -32,8 +33,9 @@
 #### 新建文件
 现在你已设置，启动 Construct 2.单击 File 按钮，然后选择 New.
 (“文件”菜单的“新建”按钮。)
-你将看到“Template or example”对话框。
-![对话框](https://www.scirra.com/images/articles/newprojdialog65.png)
+你将看到“Template or example”对话框。  
+
+![对话框](https://www.scirra.com/images/articles/newprojdialog65.png)  
 这会显示你可以随意调查的示例和模板列表。现在，只需单击框底部的 "Open" 即可创建一个空白的空项目。构造2将为我们将整个项目保存在单个.capx文件中。您现在应该看一个空布局 - 您创建和定位对象的设计视图。想象一下像游戏关卡或菜单屏幕那样的布局。在其他工具中，这可能被称为房间，场景或框架。
 
 #### 插入对象
@@ -395,8 +397,9 @@ HUD始终保持在屏幕上的相同位置。如果我们有一些界面对象�
 动作：玩家 - > 摧毁
 
   
-## ***恭喜，您已经在Construct 2中制作了第一个HTML5游戏！***
-如果您有服务器并想要展示您的工作，请单击“文件”菜单中的“ 导出 ”。构造可以将所有项目文件保存到计算机上的文件夹中，您可以将其上载或集成到网页中。如果您没有自己的服务器，可以在Dropbox上分享您的游戏。
+## ***恭喜，您已完成本教程的全部内容，并在 Construct 2 中制作了第一个HTML5游戏！***
+## ***如果觉得还不错，请为博主疯狂打call！！***
+
 
 
 
