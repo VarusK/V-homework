@@ -3,7 +3,10 @@
 #### Posted on 2018.10.10
 
 ### No.1 1000X *——Broods & Jarryd James* 
-![1000X](https://img3.doubanio.com/view/subject/m/public/s28819032.jpg)
+![1000X](https://img3.doubanio.com/view/subject/m/public/s28819032.jpg)  
+
+>评论：歌曲以空灵的旋律为主，贯穿这首歌的背景中风铃般的声音，配合上男女声而产生耳蜗共鸣，不禁令人怦然心动，加上情歌歌词，仿佛真的让人找回恋爱的感觉。这首歌是为数不多第一遍听就会被吸引却又不会在日后听多而腻，虽然音很轻但就像是有魔力一样，忍不住一听再听，每一句都像戳进了心里。  
+
 歌词：  
 Even if I'm leaving you at the door  
 尽管已经一起走到了最后才分离  
@@ -86,11 +89,13 @@ Where you make me lose my mind
 In another life I'd do it all again a thousand times !  
 为你 千千万万遍  
 
->评论：歌曲以空灵的旋律为主，贯穿这首歌的背景中风铃般的声音，配合上男女声而产生耳蜗共鸣，不禁令人怦然心动，加上情歌歌词，仿佛真的让人找回恋爱的感觉。这首歌是为数不多第一遍听就会被吸引却又不会在日后听多而腻，虽然音很轻但就像是有魔力一样，忍不住一听再听，每一句都像戳进了心里。
+
 
 ### No.2 Sorry For Writing All The Songs About You *——Clara Mae*
 
-![Sorry For Writing All The Songs About You](http://www.mixrnb.com/data/attachment/forum/201711/15/091146mg4mkfc7ppiyeef7.jpg.thumb.jpg)
+![Sorry For Writing All The Songs About You](http://www.mixrnb.com/data/attachment/forum/201711/15/091146mg4mkfc7ppiyeef7.jpg.thumb.jpg)  
+
+>评论：这首歌节奏轻快，但又透露着些许忧伤和不舍，歌词也是关于思念和依恋的，配合这甜美的女声，很好的抒发了作者对恋人的思念与不舍。 
 
 歌词：  
 I can't help myself I put it down on paper  
@@ -182,10 +187,12 @@ Sorry for writing all the songs about you
 But I had to, oh, I had to  
 但是我必须如此，oh，我别无选择  
 
->评论：这首歌节奏轻快，但又透露着些许忧伤和不舍，歌词也是关于思念和依恋的，配合这甜美的女声，很好的抒发了作者对恋人的思念与不舍。
+
 
 ### No.3 A Little Braver *——New Empire*
-![A Little Braver](http://www.mixrnb.com/data/attachment/forum/201609/02/131529b596kkjz9etst33c.jpg.thumb.jpg)
+![A Little Braver](http://www.mixrnb.com/data/attachment/forum/201609/02/131529b596kkjz9etst33c.jpg.thumb.jpg)  
+
+>评论：“花开了，我会认为是你来了。风吹过来，我会认为是你来了。下雨了，我会认为是你来了。下起雪来，我也会认为是你来了。”这首歌描述的那种“更勇敢一点”，道出了许多恋人的心声。  
 
 歌词：  
 With december comes the glimmer on her face  
@@ -271,4 +278,3 @@ I get a little wiser now
 before I give my heart away  
 在我交出我的心之前  
 
->评论：“花开了，我会认为是你来了。风吹过来，我会认为是你来了。下雨了，我会认为是你来了。下起雪来，我也会认为是你来了。”这首歌描述的那种“更勇敢一点”，道出了许多恋人的心声。
