@@ -74,16 +74,15 @@ X 从 3 开始递减 1，直到 X 值为 0
 （2） 修改该程序，用机器语言实现 10+9+8+..1 ，输出结果存放于内存 Y
 
 1. 写出 c 语言的计算过程
+
+
 ```C
 #include<stdio.h>
-
 int main(void)
 {
     int Y = 0;
-
     for(int i = 1;i <= 10;i++)
         Y = Y + i;
-
     return 0;
 }
 ```
