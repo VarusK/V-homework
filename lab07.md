@@ -56,9 +56,9 @@ LOD #3只需访问 RAM 一次,而 ADD W 需要两次访问 RAM 。
 3. 该机器CPU是几位的？（按累加器的位数）  
 8 位
 4. 写出该程序对应的 C语言表达。  
-int x = 7;  
-int w = 3;  
-int y = w + x;  
+int X = 7;  
+int W = 3;  
+int Y = W + X;  
 
 
 #### 任务 2：简单循环
