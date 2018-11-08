@@ -9,6 +9,7 @@
 5. [05-GatesCircuits](hw05)
 6. [06-Chapter05作业](hw06)
 7. [07-Chapter07作业](hw07)
+8. [08-Chapter06作业](hw08)
 
 
 ## 实验与实践
