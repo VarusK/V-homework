@@ -42,7 +42,7 @@
 
 1.    
 ![](http://m.qpic.cn/psb?/V10TJRfP2sMibY/6so.Wx.mLEc4V0vWBsKzLV.JlroJrdw3GyhVsEqLIxU!/b/dPMAAAAAAAAA&bo=tgRuAQAAAAADB*8!&rf=viewer_4)
-该线性方程组无解
+该线性方程组有无数解
 
 
 2.    
