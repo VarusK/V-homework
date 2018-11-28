@@ -88,10 +88,10 @@ The development of AI is progressing at an exponential rate. The emerging techno
 　　“如果机器出了问题，这是有问题的，那么道德编程（即它如何能在道德上提高这一目标）听起来是错误的，”他说，“这很棘手，因为很多都是出于人类自身的意图。”    
 　　如果它能提高老年人的生活质量，作为频繁拜访和与家人通话的补充，机器人可能会很棒。但同样，以机器人作为借口忽视年长的亲戚，将会带来相反的后果。
 
-![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1543392373005&di=fe515475eba57f7c1d05b03e48183a6e&imgtype=0&src=http%3A%2F%2Fcms-bucket.nosdn.127.net%2Fa12078bf276342a9bdfeb2daeeb0c8d920180220164915.jpeg%3FimageView%26thumbnail%3D550x0)
-
 引自：https://zhuanlan.zhihu.com/p/40245122
 同样的，这段话也在讨论第六个议题，人工智能的安全性。
+
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1543392373005&di=fe515475eba57f7c1d05b03e48183a6e&imgtype=0&src=http%3A%2F%2Fcms-bucket.nosdn.127.net%2Fa12078bf276342a9bdfeb2daeeb0c8d920180220164915.jpeg%3FimageView%26thumbnail%3D550x0)
 
 总结：  
 　　就像从厨房刀到核聚变的任何技术一样，这个工具本身不是好是坏，取决于使用它的人的意图。即使是这样，亚历克斯伦敦也指出，如果有人认为他们用这个工具做得很好，而其他人则不好，又是什么样的情况呢？  
