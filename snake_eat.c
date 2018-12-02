@@ -71,9 +71,7 @@ int main(void)
 				output();
 				break;
 		}
-
 	}
-
 }
 
 void snakeMove(int a,int b)
