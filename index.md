@@ -29,13 +29,36 @@
 12. [12-贪吃蛇实验报告](lab11)
 13. [13-我喜欢的X语言](lab11)
 14. [14-IT风投之我见](lab13)
-15. [15-智能蛇实验报告](lab14)
+15. [15-智能蛇实验报告](lab15)
 16. [16-互联网时代的盈利模式](lab15)
 
 
 ## Markdown 语法演示
 
 ![](images/exclamation.png) 语法 [demo 文档](demo)， [source](https://github.com/sysu-swi/homework/blob/gh-pages/demo.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

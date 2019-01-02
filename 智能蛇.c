@@ -192,3 +192,5 @@ void put_money(void)		//生产食物函数的实现
 	counter2 = 1;													/* 更新食物计数器		*/
 	map[randNumY][randNumX] = SNAKE_FOOD;							/* 在对应坐标下放置食物 */
 }
+
+
